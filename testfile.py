@@ -1,2 +1,4 @@
-# hello! wow this is cool
+# hello! this is cool
 a = 'Hello'
+
+b = a + ' Camilla'
